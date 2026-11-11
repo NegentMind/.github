@@ -1,6 +1,6 @@
 ﻿[Español](./MANIFESTO_ES.md) | English
 
-# The NEGENTROPY Manifesto
+# The NEGENT MIND Manifesto
 
 > "Order out of chaos for the age of AI agents."
 
@@ -95,11 +95,11 @@ If you build with LLMs and need order over raw intelligence:
 - **Propose**: Suggest what's missing.
 - **License**: Commercial licensing for enterprise use.
 
-**Contact**: [NegentropyOS.ia@gmail.com](mailto:NegentropyOS.ia@gmail.com) | [Discord](https://discord.gg/g8nqB3NtXt)
+**Contact**: [NegentMind.ia@gmail.com](mailto:NegentMind.ia@gmail.com) | [Discord](https://discord.gg/g8nqB3NtXt)
 
 Let's build infrastructure for the age of agents.
 
 ---
 
-**NegentropyOS** — Order out of chaos.
+**NegentMind** — Order out of chaos.
 

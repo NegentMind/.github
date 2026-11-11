@@ -1,13 +1,13 @@
 ﻿[Español](./ROADMAP_ES.md) | English
 
-# NegentropyOS Roadmap
+# NegentMind Roadmap
 
 > **Current state**: Only **VantaDB** (Memory) is in production. The nine holons have a
 > documented design and an activation criterion, but **none of them is built**.
 >
 > There are no launch dates. The order is set by diagnosed demand, not by a calendar.
 
-**Specifications & RFCs**: [`NEGENTROPY`](https://github.com/NegentropyOS/NEGENTROPY) — architectural reference model and specifications.
+**Specifications & RFCs**: [`NEGENT MIND`](https://github.com/NegentMind/NEGENT MIND) — architectural reference model and specifications.
 
 ---
 
@@ -148,8 +148,8 @@ Code without a diagnosis is exactly the 88% that dies.
 
 | Date | What happened |
 |---|---|
-| 2026-09-08 | Nine `NEGENTROPY-<holon>` repositories, one per holon |
-| 2026-09-28 | Merged into the `NEGENTROPY` monorepo with `git subtree`. The nine were **archived** with history preserved: 27 original commits |
+| 2026-09-08 | Nine `NEGENT MIND-<holon>` repositories, one per holon |
+| 2026-09-28 | Merged into the `NEGENT MIND` monorepo with `git subtree`. The nine were **archived** with history preserved: 27 original commits |
 | 2026-09-29 | The organization was rebuilt. The nine archived repositories were **deleted** — their history lives inside the monorepo — and the three active repositories were recreated. The org sidebar went from eleven repos, nine of them stubs, to two |
 
 Verified: the 27 original commits of the nine repositories are still reachable inside the
@@ -174,4 +174,4 @@ and with what tools**.
 
 ---
 
-**NegentropyOS** — Order out of chaos.
+**NegentMind** — Order out of chaos.

@@ -1,4 +1,4 @@
-﻿# NegentropyOS
+﻿# NegentMind
 
 <div align="right"><a href="./README_ES.md">Español</a> | English</div>
 
@@ -6,12 +6,12 @@
 
 <p align="center"><em>Infrastructure that turns operational chaos into systems you can trust.</em></p>
 
-This is the `.github` repository of **NegentropyOS**. It holds two distinct things, and
+This is the `.github` repository of **NegentMind**. It holds two distinct things, and
 keeping them apart is the point of this repository:
 
 | | |
 |---|---|
-| [`profile/`](./profile/) | The **organization profile** — this is what renders on [github.com/NegentropyOS](https://github.com/NegentropyOS) |
+| [`profile/`](./profile/) | The **organization profile** — this is what renders on [github.com/NegentMind](https://github.com/NegentMind) |
 | The repository root | **Governance and community documents** — the rules that apply to every repository in the organization |
 
 GitHub renders `profile/README.md`, not the root `README.md`. That is why the two are
@@ -34,7 +34,7 @@ This is the page a visitor lands on.
 
 These are GitHub community health files. Because they live here, they apply to **every
 repository in the organization** that does not override them — including
-[`NEGENTROPY`](https://github.com/NegentropyOS/NEGENTROPY).
+[`NEGENT MIND`](https://github.com/NegentMind/NEGENT MIND).
 
 | Document | English | Español |
 |---|---|---|
@@ -67,13 +67,13 @@ in importance.
 
 | Repository | Visibility | What it is |
 |---|---|---|
-| [`.github`](https://github.com/NegentropyOS/.github) | public | This one. Organization profile and governance |
-| [`NEGENTROPY`](https://github.com/NegentropyOS/NEGENTROPY) | public | **The nine holons**, one directory each. The substrate |
+| [`.github`](https://github.com/NegentMind/.github) | public | This one. Organization profile and governance |
+| [`NEGENT MIND`](https://github.com/NegentMind/NEGENT MIND) | public | **The nine holons**, one directory each. The substrate |
 | [`ness-e/Vantadb`](https://github.com/ness-e/Vantadb) | public | The memory substrate. Released library, its own repo, v0.7.0 in production |
 | `strategy` | **private** | Master definition, market evidence, business model, competitive analysis |
 
-Nine `NEGENTROPY-<holon>` repositories were **deleted** on 29 September 2026 after their
-contents were merged into the `NEGENTROPY` monorepo. Their history lives inside the monorepo.
+Nine `NEGENT MIND-<holon>` repositories were **deleted** on 29 September 2026 after their
+contents were merged into the `NEGENT MIND` monorepo. Their history lives inside the monorepo.
 
 The private `strategy` repository holds what the public one must not: pricing,
 competitive analysis, risk register and the market evidence with its sources. Mixing "this
@@ -83,7 +83,7 @@ is what we believe" with "this is what we know about the market" degrades both.
 
 ## Contact
 
-- 📧 [NegentropyOS.ia@gmail.com](mailto:NegentropyOS.ia@gmail.com)
+- 📧 [NegentMind.ia@gmail.com](mailto:NegentMind.ia@gmail.com)
 - 💬 [Discord](https://discord.gg/g8nqB3NtXt)
 
 ---
@@ -94,4 +94,4 @@ Apache 2.0 — see [LICENSE](./LICENSE) and [NOTICE](./NOTICE).
 
 ---
 
-**NegentropyOS** — Order out of chaos.
+**NegentMind** — Order out of chaos.

@@ -1,8 +1,8 @@
 [English](./CONTRIBUTORS.md) | Español
 
-# Contribuidores de SyntropyOS
+# Contribuidores de NegentMind
 
-Gracias a todas las personas que contribuyen a SyntropyOS.
+Gracias a todas las personas que contribuyen a NegentMind.
 
 ## Core Team
 
@@ -14,5 +14,5 @@ Gracias a todas las personas que contribuyen a SyntropyOS.
 
 ---
 
-**SyntropyOS** — Orden desde el caos.
+**NegentMind** — Orden desde el caos.
 

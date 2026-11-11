@@ -1,6 +1,6 @@
 [Español](./CONTRIBUTING_ES.md) | English
 
-# Contributing to SyntropyOS
+# Contributing to NegentMind
 
 Thanks for your interest in contributing.
 
@@ -44,10 +44,10 @@ Thanks for your interest in contributing.
 
 ## Contact
 
-- **Email**: [syntropyos.ia@gmail.com](mailto:syntropyos.ia@gmail.com)
+- **Email**: [negent@negentmind.com](mailto:negent@negentmind.com)
 - **Discord**: [https://discord.gg/g8nqB3NtXt](https://discord.gg/g8nqB3NtXt)
 
 ---
 
-**SyntropyOS** — Order out of chaos.
+**NegentMind** — Order out of chaos.
 

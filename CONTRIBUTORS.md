@@ -1,8 +1,8 @@
 [Español](./CONTRIBUTORS_ES.md) | English
 
-# SyntropyOS Contributors
+# NegentMind Contributors
 
-Thanks to everyone who contributes to SyntropyOS.
+Thanks to everyone who contributes to NegentMind.
 
 ## Core Team
 
@@ -14,5 +14,5 @@ Thanks to everyone who contributes to SyntropyOS.
 
 ---
 
-**SyntropyOS** — Order out of chaos.
+**NegentMind** — Order out of chaos.
 

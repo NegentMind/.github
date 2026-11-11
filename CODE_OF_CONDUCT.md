@@ -2,13 +2,13 @@
 
 # Code of Conduct
 
-SyntropyOS follows the [Contributor Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
+NegentMind follows the [Contributor Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
 
 In short:
 
 - **Expected behavior**: Respect, inclusion, collaboration.
 - **Unacceptable behavior**: Harassment, discrimination, personal attacks.
-- **Reporting**: Open an issue or email [syntropyos.ia@gmail.com](mailto:syntropyos.ia@gmail.com)
+- **Reporting**: Open an issue or email [negent@negentmind.com](mailto:negent@negentmind.com)
 
 📖 **Full text**: [Contributor Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
 

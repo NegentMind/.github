@@ -7,7 +7,7 @@
 Si encuentras una vulnerabilidad de seguridad:
 
 1. **No la reportes en issues públicos**.
-2. Escribe a: [syntropyos.ia@gmail.com](mailto:syntropyos.ia@gmail.com)
+2. Escribe a: [negent@negentmind.com](mailto:negent@negentmind.com)
 3. Incluye: descripción, pasos para reproducir, impacto potencial.
 
 ## Proceso
@@ -16,5 +16,5 @@ Si encuentras una vulnerabilidad de seguridad:
 - Trabajamos en una corrección.
 - Publicamos un aviso cuando está resuelto.
 
-Gracias por ayudar a mantener SyntropyOS seguro.
+Gracias por ayudar a mantener NegentMind seguro.
 
